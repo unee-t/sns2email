@@ -1,0 +1,9 @@
+{
+  "name": "sns2email",
+  "description": "Notifications via email",
+  "memory": 128,
+  "timeout": 5,
+  "profile": "uneet-dev",
+  "role": "arn:aws:iam::812644853088:role/sns2email_lambda_function",
+  "environment": {}
+}
