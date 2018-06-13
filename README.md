@@ -1,3 +1,9 @@
+# Deprecated
+
+Emails will be sent from Mongo as it's in the best position to derive
+information about the User(s) involved from the MongoDB store.
+
+
 Tackling the issue https://github.com/unee-t/frontend/issues/281
 
 https://twitter.com/kaihendry/status/1006085307488325632

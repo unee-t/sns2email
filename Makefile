@@ -23,4 +23,8 @@ testprod:
 	apex -r ap-southeast-1 --env prod invoke email < event.json
 
 
+deletedev:
+	apex -r ap-southeast-1 --env dev delete
+
+
 .PHONY: dev demo prod testdev testdemo testprod
